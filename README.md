@@ -4,6 +4,7 @@ Python-based Implementations:
 2. <a href = "https://github.com/adithi-su/VLSI-CAD/blob/master/EC440_A2_FM_partitioning.ipynb"> Fiduccia–Mattheyses algorithm in partitioning </a>
 
 OpenLane - RTL to GDSII conversion: <br>
+Installation procedure can be found <a href="https://adithi-su.github.io/openlane-installation/">here</a> <br>
 1. <a href = "https://github.com/adithi-su/OpenLane-EDA-16-Bit-Counter" > 16 bit Counter </a> <br>
 2. <a href = "https://github.com/adithi-su/OpenLane-Multiplier-32Bit" > 32 bit multiplier </a>
 
